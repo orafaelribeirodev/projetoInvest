@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Application\\GestaoPortifolioInvestimento.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Application\\GestaoPortifolioInvestimento.Application.csproj",
+        "projectName": "GestaoPortifolioInvestimento.Application",
+        "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Application\\GestaoPortifolioInvestimento.Application.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj"
+              },
+              "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj",
+        "projectName": "GestaoPortifolioInvestimento.Domain",
+        "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
+        "projectName": "GestaoPortifolioInvestimento.Repositories",
+        "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.csproj",
+        "projectName": "GestaoPortifolioInvestimento",
+        "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Application\\GestaoPortifolioInvestimento.Application.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Application\\GestaoPortifolioInvestimento.Application.csproj"
+              },
+              "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Desktop\\GestãoPortifolio\\Nova pasta\\Nova pasta\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

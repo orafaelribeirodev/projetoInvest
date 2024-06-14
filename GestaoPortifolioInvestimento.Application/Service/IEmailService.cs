@@ -1,0 +1,6 @@
+﻿namespace GestaoPortifolioInvestimento.Application.Service
+{
+ 
+    
+
+}
